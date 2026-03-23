@@ -4,14 +4,19 @@ TalkToNotes is a simple and efficient Android application that converts your spe
 ✨ Features
 🎤 Voice to Text
 Convert spoken words into text in real-time using speech recognition.
+
 📝 Smart Note Formatting
 Automatically formats sentences and replaces words like “comma”, “full stop”, “new line”.
+
 🕒 Date & Time Stamps
 Each note is saved with the current date and time for easy tracking.
+
 💾 Save Notes Locally
 Notes are stored using a local database for offline access.
+
 📄 Export to PDF
 Generate a PDF file containing all saved notes.
+
 🗑️ Delete Notes
 Remove notes easily with a long press.
 
